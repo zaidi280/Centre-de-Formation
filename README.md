@@ -37,7 +37,7 @@
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
