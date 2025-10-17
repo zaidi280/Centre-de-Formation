@@ -1,0 +1,696 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bureau\\workspace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\controllers\\courcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\courcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\controllers\\enseignantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\enseignantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\services\\imatiereservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\services\\imatiereservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\services\\matiereservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\services\\matiereservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Matieres.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\services\\iformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\services\\iformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Formations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\cour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\cour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\formation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\formation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\workspacecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\workspacecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\controllers\\etudiantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\etudiantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\controllers\\formationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\formationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\repository\\enseignantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\repository\\enseignantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Enseignants.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\services\\formationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\services\\formationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\controllers\\matierecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\matierecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\repository\\formationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\repository\\formationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\repository\\matiererepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\repository\\matiererepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Etudiants.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\controllers\\sallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\sallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE1/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE1/True/SqlTable/dbo.Enseignants.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\dto\\inscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\dto\\inscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\dto\\connexiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\dto\\connexiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\services\\enseignantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\services\\enseignantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\dto\\creerenseignantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\dto\\creerenseignantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\models\\tokenvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\tokenvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\migrations\\20241207162734_testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\migrations\\20241207162734_testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\migrations\\20241208152644_tokenref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\migrations\\20241208152644_tokenref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|d:\\bureau\\workspace\\workspace\\migrations\\20241213122616_jsonign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\migrations\\20241213122616_jsonign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 45,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMatiereService.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\Services\\IMatiereService.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Services\\IMatiereService.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\Services\\IMatiereService.cs",
+              "RelativeToolTip": "workspace\\Models\\Services\\IMatiereService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:07:10.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAUwDEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:09:39.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:17:00.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Program.cs",
+              "RelativeDocumentMoniker": "workspace\\Program.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Program.cs",
+              "RelativeToolTip": "workspace\\Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAC4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:09:58.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.AspNetRoles [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-13T19:39:01.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Matieres [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Matieres.sql",
+              "ToolTip": "dbo.Matieres [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-12T19:47:59.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Matiere.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\Matiere.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Matiere.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\Matiere.cs",
+              "RelativeToolTip": "workspace\\Models\\Matiere.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:12:23.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFormationService.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\Services\\IFormationService.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Services\\IFormationService.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\Services\\IFormationService.cs",
+              "RelativeToolTip": "workspace\\Models\\Services\\IFormationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:06:27.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MatiereService.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\Services\\MatiereService.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Services\\MatiereService.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\Services\\MatiereService.cs",
+              "RelativeToolTip": "workspace\\Models\\Services\\MatiereService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:16:03.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Formations [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Formations.sql",
+              "ToolTip": "dbo.Formations [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-12T21:44:44.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormationService.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\Services\\FormationService.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Services\\FormationService.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\Services\\FormationService.cs",
+              "RelativeToolTip": "workspace\\Models\\Services\\FormationService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:55:11.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Formation.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\Formation.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Formation.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\Formation.cs",
+              "RelativeToolTip": "workspace\\Models\\Formation.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:42:23.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20241213122616_jsonign.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Migrations\\20241213122616_jsonign.cs",
+              "RelativeDocumentMoniker": "workspace\\Migrations\\20241213122616_jsonign.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Migrations\\20241213122616_jsonign.cs",
+              "RelativeToolTip": "workspace\\Migrations\\20241213122616_jsonign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:26:17.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cour.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\Cour.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Cour.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\Cour.cs",
+              "RelativeToolTip": "workspace\\Models\\Cour.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:36:58.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enseignant.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\Enseignant.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Enseignant.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\Enseignant.cs",
+              "RelativeToolTip": "workspace\\Models\\Enseignant.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwBUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:02:55.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WorkspaceContext.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\WorkspaceContext.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\WorkspaceContext.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\WorkspaceContext.cs",
+              "RelativeToolTip": "workspace\\Models\\WorkspaceContext.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwD4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:12:21.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormationController.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Controllers\\FormationController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\FormationController.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Controllers\\FormationController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\FormationController.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAiwF4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:35:35.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\Etudiant.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Etudiant.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\Etudiant.cs",
+              "RelativeToolTip": "workspace\\Models\\Etudiant.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA0wBYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:48:24.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnseignantController.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Controllers\\EnseignantController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\EnseignantController.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Controllers\\EnseignantController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\EnseignantController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:30:53.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EtudiantController.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Controllers\\EtudiantController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\EtudiantController.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Controllers\\EtudiantController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\EtudiantController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:24:17.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.AspNetUsers [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-08T15:59:07.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnseignantRepository.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\Repository\\EnseignantRepository.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Repository\\EnseignantRepository.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\Repository\\EnseignantRepository.cs",
+              "RelativeToolTip": "workspace\\Models\\Repository\\EnseignantRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:55:37.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.Enseignants [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Enseignants.sql",
+              "ToolTip": "dbo.Enseignants [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-09T19:22:51.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\RefreshToken.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "workspace\\Models\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:10:15.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MatiereController.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Controllers\\MatiereController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\MatiereController.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Controllers\\MatiereController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\MatiereController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:48:47.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\appsettings.json",
+              "RelativeDocumentMoniker": "workspace\\appsettings.json",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\appsettings.json",
+              "RelativeToolTip": "workspace\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T16:14:37.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormationRepository.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\Repository\\FormationRepository.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Repository\\FormationRepository.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\Repository\\FormationRepository.cs",
+              "RelativeToolTip": "workspace\\Models\\Repository\\FormationRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:55:26.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MatiereRepository.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\Repository\\MatiereRepository.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Repository\\MatiereRepository.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\Repository\\MatiereRepository.cs",
+              "RelativeToolTip": "workspace\\Models\\Repository\\MatiereRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:16:06.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.Etudiants [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Etudiants.sql",
+              "ToolTip": "dbo.Etudiants [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-12T19:42:53.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SalleController.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Controllers\\SalleController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\SalleController.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Controllers\\SalleController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\SalleController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwEwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:45:49.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InscriptionDTO.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\DTO\\InscriptionDTO.cs",
+              "RelativeDocumentMoniker": "workspace\\DTO\\InscriptionDTO.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\DTO\\InscriptionDTO.cs",
+              "RelativeToolTip": "workspace\\DTO\\InscriptionDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:56:48.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dbo.AspNetUsers [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE1/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-09T19:22:31.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EnseignantService.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\Services\\EnseignantService.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Services\\EnseignantService.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\Services\\EnseignantService.cs",
+              "RelativeToolTip": "workspace\\Models\\Services\\EnseignantService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:56:09.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ConnexionDTO.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\DTO\\ConnexionDTO.cs",
+              "RelativeDocumentMoniker": "workspace\\DTO\\ConnexionDTO.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\DTO\\ConnexionDTO.cs",
+              "RelativeToolTip": "workspace\\DTO\\ConnexionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:46:59.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dbo.Enseignants [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE1/True/SqlTable/dbo.Enseignants.sql",
+              "ToolTip": "dbo.Enseignants [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-09T13:28:47.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreerEnseignantDTO.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\DTO\\CreerEnseignantDTO.cs",
+              "RelativeDocumentMoniker": "workspace\\DTO\\CreerEnseignantDTO.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\DTO\\CreerEnseignantDTO.cs",
+              "RelativeToolTip": "workspace\\DTO\\CreerEnseignantDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:09:32.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "workspace\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:31:29.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\ApplicationRole.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "workspace\\Models\\ApplicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:52:24.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "workspace\\Data\\SeedData.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Data\\SeedData.cs",
+              "RelativeToolTip": "workspace\\Data\\SeedData.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:54:51.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TokenValidationMiddleware.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Models\\TokenValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\TokenValidationMiddleware.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Models\\TokenValidationMiddleware.cs",
+              "RelativeToolTip": "workspace\\Models\\TokenValidationMiddleware.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:20:22.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241208152644_tokenref.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Migrations\\20241208152644_tokenref.cs",
+              "RelativeDocumentMoniker": "workspace\\Migrations\\20241208152644_tokenref.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Migrations\\20241208152644_tokenref.cs",
+              "RelativeToolTip": "workspace\\Migrations\\20241208152644_tokenref.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:26:45.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourController.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Controllers\\CourController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\CourController.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Controllers\\CourController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\CourController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:09:14.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241207162734_testing.cs",
+              "DocumentMoniker": "D:\\bureau\\workspace\\workspace\\Migrations\\20241207162734_testing.cs",
+              "RelativeDocumentMoniker": "workspace\\Migrations\\20241207162734_testing.cs",
+              "ToolTip": "D:\\bureau\\workspace\\workspace\\Migrations\\20241207162734_testing.cs",
+              "RelativeToolTip": "workspace\\Migrations\\20241207162734_testing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T16:27:34.502Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

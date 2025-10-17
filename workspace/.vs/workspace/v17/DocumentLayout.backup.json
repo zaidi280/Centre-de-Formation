@@ -1,0 +1,659 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\workspace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Cours.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Formations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Matieres.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Salles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Migrations\\20241207130238_salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:workspace\\Migrations\\20241207130238_salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\repository\\formationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\repository\\formationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\repository\\courrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\repository\\courrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\repository\\sallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\repository\\sallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\repository\\matiererepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\repository\\matiererepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\controllers\\matierecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\matierecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\controllers\\sallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\sallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\controllers\\formationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\formationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\dto\\matieredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\dto\\matieredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\dto\\courdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\dto\\courdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\dto\\salledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\dto\\salledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\dto\\formationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\dto\\formationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\controllers\\courcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\courcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\cour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\cour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\services\\courservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\services\\courservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\services\\formationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\services\\formationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\services\\isalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\services\\isalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\services\\matiereservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\services\\matiereservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\formation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\formation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\workspacecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\workspacecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\controllers\\etudiantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\etudiantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\services\\iformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\services\\iformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\dto\\connexiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\dto\\connexiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\repository\\enseignantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\repository\\enseignantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\repository\\etudiantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\repository\\etudiantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\services\\enseignantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\services\\enseignantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\services\\ienseignantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\services\\ienseignantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\models\\services\\etudiantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\models\\services\\etudiantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|c:\\users\\lenovo\\source\\repos\\workspace\\workspace\\controllers\\enseignantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5861DE41-4462-4C32-8D94-15F1638B8159}|workspace\\workspace.csproj|solutionrelative:workspace\\controllers\\enseignantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MatiereController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\MatiereController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\MatiereController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\MatiereController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\MatiereController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwJ8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:04:54.253Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Cours [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Cours.sql",
+              "ToolTip": "dbo.Cours [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-07T13:04:31.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Salles [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Salles.sql",
+              "ToolTip": "dbo.Salles [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-07T13:04:19.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Matieres [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Matieres.sql",
+              "ToolTip": "dbo.Matieres [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-07T13:04:15.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Formations [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/WORKSPACE/True/SqlTable/dbo.Formations.sql",
+              "ToolTip": "dbo.Formations [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-07T13:04:07.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241207130238_salle.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Migrations\\20241207130238_salle.cs",
+              "RelativeDocumentMoniker": "workspace\\Migrations\\20241207130238_salle.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Migrations\\20241207130238_salle.cs",
+              "RelativeToolTip": "workspace\\Migrations\\20241207130238_salle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:02:38.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Repository\\CourRepository.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Repository\\CourRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Repository\\CourRepository.cs",
+              "RelativeToolTip": "workspace\\Models\\Repository\\CourRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:01:41.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalleController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\SalleController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\SalleController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\SalleController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\SalleController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwHIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:16:59.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatiereRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Repository\\MatiereRepository.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Repository\\MatiereRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Repository\\MatiereRepository.cs",
+              "RelativeToolTip": "workspace\\Models\\Repository\\MatiereRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:46:53.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Repository\\FormationRepository.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Repository\\FormationRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Repository\\FormationRepository.cs",
+              "RelativeToolTip": "workspace\\Models\\Repository\\FormationRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:07:03.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormationController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\FormationController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\FormationController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\FormationController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\FormationController.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAYwBUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:19:58.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Repository\\SalleRepository.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Repository\\SalleRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Repository\\SalleRepository.cs",
+              "RelativeToolTip": "workspace\\Models\\Repository\\SalleRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:46:34.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MatiereDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\DTO\\MatiereDTO.cs",
+              "RelativeDocumentMoniker": "workspace\\DTO\\MatiereDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\DTO\\MatiereDTO.cs",
+              "RelativeToolTip": "workspace\\DTO\\MatiereDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:00:41.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Matiere.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Matiere.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Matiere.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Matiere.cs",
+              "RelativeToolTip": "workspace\\Models\\Matiere.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:17:09.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\DTO\\CourDTO.cs",
+              "RelativeDocumentMoniker": "workspace\\DTO\\CourDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\DTO\\CourDTO.cs",
+              "RelativeToolTip": "workspace\\DTO\\CourDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:54:44.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SalleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\DTO\\SalleDTO.cs",
+              "RelativeDocumentMoniker": "workspace\\DTO\\SalleDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\DTO\\SalleDTO.cs",
+              "RelativeToolTip": "workspace\\DTO\\SalleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:54:49.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\DTO\\FormationDTO.cs",
+              "RelativeDocumentMoniker": "workspace\\DTO\\FormationDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\DTO\\FormationDTO.cs",
+              "RelativeToolTip": "workspace\\DTO\\FormationDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:29:29.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CourController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\CourController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\CourController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\CourController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\CourController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4vxMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:55:01.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cour.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Cour.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Cour.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Cour.cs",
+              "RelativeToolTip": "workspace\\Models\\Cour.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:36:56.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\CourService.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Services\\CourService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\CourService.cs",
+              "RelativeToolTip": "workspace\\Models\\Services\\CourService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:45:09.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormationService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\FormationService.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Services\\FormationService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\FormationService.cs",
+              "RelativeToolTip": "workspace\\Models\\Services\\FormationService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvzoAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:54:06.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ISalleService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\ISalleService.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Services\\ISalleService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\ISalleService.cs",
+              "RelativeToolTip": "workspace\\Models\\Services\\ISalleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:47:30.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MatiereService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\MatiereService.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Services\\MatiereService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\MatiereService.cs",
+              "RelativeToolTip": "workspace\\Models\\Services\\MatiereService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:07:47.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Formation.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Formation.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Formation.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Formation.cs",
+              "RelativeToolTip": "workspace\\Models\\Formation.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:20:18.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Salle.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Salle.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Salle.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Salle.cs",
+              "RelativeToolTip": "workspace\\Models\\Salle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:38:00.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WorkspaceContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\WorkspaceContext.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\WorkspaceContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\WorkspaceContext.cs",
+              "RelativeToolTip": "workspace\\Models\\WorkspaceContext.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwv0QAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:14:34.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EtudiantController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\EtudiantController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\EtudiantController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\EtudiantController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\EtudiantController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:28:39.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IFormationService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\IFormationService.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Services\\IFormationService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\IFormationService.cs",
+              "RelativeToolTip": "workspace\\Models\\Services\\IFormationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:22:14.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Program.cs",
+              "RelativeDocumentMoniker": "workspace\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Program.cs",
+              "RelativeToolTip": "workspace\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAE8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:12:15.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ConnexionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\DTO\\ConnexionDTO.cs",
+              "RelativeDocumentMoniker": "workspace\\DTO\\ConnexionDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\DTO\\ConnexionDTO.cs",
+              "RelativeToolTip": "workspace\\DTO\\ConnexionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:01:16.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAH8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:58:01.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EnseignantService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\EnseignantService.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Services\\EnseignantService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\EnseignantService.cs",
+              "RelativeToolTip": "workspace\\Models\\Services\\EnseignantService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:45:26.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EtudiantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Repository\\EtudiantRepository.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Repository\\EtudiantRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Repository\\EtudiantRepository.cs",
+              "RelativeToolTip": "workspace\\Models\\Repository\\EtudiantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:45:38.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IEnseignantService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\IEnseignantService.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Services\\IEnseignantService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\IEnseignantService.cs",
+              "RelativeToolTip": "workspace\\Models\\Services\\IEnseignantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:45:22.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EtudiantService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\EtudiantService.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Services\\EtudiantService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Services\\EtudiantService.cs",
+              "RelativeToolTip": "workspace\\Models\\Services\\EtudiantService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:45:10.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EnseignantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Repository\\EnseignantRepository.cs",
+              "RelativeDocumentMoniker": "workspace\\Models\\Repository\\EnseignantRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Models\\Repository\\EnseignantRepository.cs",
+              "RelativeToolTip": "workspace\\Models\\Repository\\EnseignantRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:45:40.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:51:49.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EnseignantController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\EnseignantController.cs",
+              "RelativeDocumentMoniker": "workspace\\Controllers\\EnseignantController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\workspace\\workspace\\Controllers\\EnseignantController.cs",
+              "RelativeToolTip": "workspace\\Controllers\\EnseignantController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwFIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:51:39.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
